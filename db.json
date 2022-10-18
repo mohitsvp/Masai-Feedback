@@ -7,9 +7,31 @@
       "instructor" : "Nihal",
       "mentor" : "Ranjan",
       "feedbacks" : [
-        
+        "f1"
       ],
       "feedbackForm" : []
     }
+  ],
+
+    "feedbacks" : [
+        { 
+          "id": "f1",
+          "student-id": "pw07_001",
+          "date": "18/10/2022",
+
+          "instructor-feedback": {
+            "content-delivery": "",
+            "class-Preparedness": "",
+            "Content Quality": "",
+            "comments": ""
+          },
+
+          "mentor-feedback": {
+            "content-delivery": "",
+            "class-Preparedness": "",
+            "Content Quality": "",
+            "comments": ""
+          }
+        }
   ]
 }
